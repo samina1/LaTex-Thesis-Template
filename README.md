@@ -3,12 +3,19 @@ This repository provides a comprehensive LaTeX template for writing and structur
 Features
 
 Title Page: Includes your institute logo and necessary details.
+
 Abstract: A section to summarize your research.
+
 Acknowledgements: Recognize those who helped you along the way.
+
 List of Abbreviations: Easy reference for terms used.
+
 Detailed Chapters: Well-structured sections for Introduction, Literature Review, Methodology, Results, Discussion, and Conclusion.
+
 Tables and Figures: Pre-configured examples included.
+
 References: APA style bibliography integration.
+
 Multimedia Support: Embedding multimedia files.
 
 
