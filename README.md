@@ -12,7 +12,7 @@ List of Abbreviations: Easy reference for terms used.
 
 Detailed Chapters: Well-structured sections for Introduction, Literature Review, Methodology, Results, Discussion, and Conclusion.
 
-Tables and Figures: Pre-configured examples included.
+Tables and Figures: examples included.
 
 References: APA style bibliography integration.
 
